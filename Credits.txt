@@ -14,3 +14,6 @@ Kailyn Anderson
 Logan	Marek
 
 Pitcures from Google Image
+
+*personal commit
+Although I used AI to help create this program, I was this expience has taught me many things about the basics of game developing such as how to use pygame to creat GUIs and understanding LLMs so that I could create a prompt that can provide me the desired answer.
